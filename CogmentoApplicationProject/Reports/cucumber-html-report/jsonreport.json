@@ -1,0 +1,474 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-09-03T08:49:34.347Z",
+        "line": 3,
+        "name": "User is Logged In",
+        "description": "",
+        "id": "test-home-page;user-is-logged-in",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7611484000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "navigate to the login page",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.navigate_to_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 363783600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "submit username and password",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.submit_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5151303700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "should be logged in",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.should_be_logged_in()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-03T08:49:47.580Z",
+        "line": 8,
+        "name": "Home Page UI content",
+        "description": "",
+        "id": "test-home-page;home-page-ui-content",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 371777000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "All UI should present on home page",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.all_UI_should_present_on_home_page()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-03T08:49:47.958Z",
+        "line": 11,
+        "name": "Deal Summary varification",
+        "description": "",
+        "id": "test-home-page;deal-summary-varification",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4981400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "click on deal summary section gear icon",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.click_on_deal_summary_section_gear_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Filter drop down should appear",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.filter_drop_down_should_appear()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "click on deal summary section help icon",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.click_on_deal_summary_section_help_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Help content should appear",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.help_content_should_appear()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 995300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "click on  deal summary section refresh icon",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.click_on_deal_summary_section_refresh_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 995600,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "deal summary section should refresh",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.deal_summary_section_should_refresh()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-03T08:49:47.973Z",
+        "line": 19,
+        "name": "Activity stream verification",
+        "description": "",
+        "id": "test-home-page;activity-stream-verification",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3983600,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "Click on activity stream section gear icon",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.click_on_activity_stream_section_gear_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Drop down with all option should appear",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.drop_down_with_all_option_should_appear()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "Contacts is selected",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.contacts_is_selected()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 975500,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "Contacts should appear on activity stream",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.contacts_should_appear_on_activity_stream()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 995200,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "Companies option is selected",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.companies_option_is_selected()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "Companies should appear on activity stream",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.companies_should_appear_on_activity_stream()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "Cases option is selected",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.cases_option_is_selected()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 995900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Cases should appear on activity stream",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.cases_should_appear_on_activity_stream()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "Task option is selected",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.task_option_is_selected()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 996300,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "Tasks should appear on activity stream",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.tasks_should_appear_on_activity_stream()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "Deals option is selected",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.deals_option_is_selected()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "Deals should appear on activity stream",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.deals_should_appear_on_activity_stream()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1012700,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "Activity stream help icon is selected",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.activity_stream_help_icon_is_selected()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "help should appear on activity stream",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.help_should_appear_on_activity_stream()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "Click on  Activity stream refresh icon",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.click_on_Activity_stream_refresh_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 987100,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "Activity stream should refresh",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.activity_stream_should_refresh()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-09-03T08:49:47.992Z",
+        "line": 37,
+        "name": "Deals section verification",
+        "description": "",
+        "id": "test-home-page;deals-section-verification",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3988100,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "Click Deals section gear icon",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.click_Deals_section_gear_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "Different deals selection options should appear",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.different_deals_selection_options_should_appear()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "Select filters for deals",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.select_filters_for_deals()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 996200,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "click on gear icon",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.click_on_gear_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "graph of filtered deal should appear",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.graph_of_filtered_deal_should_appear()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 996100,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "Deals section help icon is selected",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.deals_section_help_icon_is_selected()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000600,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "help should appear on Deals section",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.help_should_appear_on_Deals_section()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2986400,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "Click on  Deals section refresh icon",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.click_on_Deals_section_refresh_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 994700,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "Deals section should refresh",
+            "match": {
+              "location": "com.StepDefinition.Home.Home_Steps.deals_section_should_refresh()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Test Home Page",
+    "description": "",
+    "id": "test-home-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Home.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,85 @@
+2020-09-03 01:17:57,369 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:18:01,463 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:18:04,979 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:18:04,980 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:18:05,334 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:18:10,487 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:21:44,835 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:21:48,723 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:21:52,443 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:21:52,445 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:21:52,790 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:21:57,930 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:22:46,101 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:22:50,261 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:22:53,962 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:22:53,962 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:22:54,275 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:22:59,416 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:24:09,331 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:24:13,369 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:24:17,159 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:24:17,159 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:24:17,465 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:24:22,617 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:25:17,563 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:25:21,513 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:25:25,051 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:25:25,052 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:25:25,390 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:25:30,527 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:26:57,544 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:27:01,696 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:27:05,230 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:27:05,231 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:27:05,569 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:27:10,717 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:28:14,534 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:28:18,499 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:28:21,917 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:28:21,918 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:28:22,239 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:28:27,381 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:31:57,364 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:32:01,236 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:32:04,779 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:32:04,780 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:32:05,137 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:32:10,273 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:32:10,374 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:32:10,409 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:32:10,438 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:32:10,466 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:32:10,503 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:32:10,529 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:32:10,552 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:37:26,303 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:37:30,188 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:37:33,610 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:37:33,610 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:37:34,066 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:37:39,205 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:37:39,304 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:37:39,341 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:37:39,369 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:37:39,400 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:37:39,430 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:37:39,461 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:37:39,489 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:34,568 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-03 01:49:38,504 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-03 01:49:42,045 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-03 01:49:42,046 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-03 01:49:42,415 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-03 01:49:47,567 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-03 01:49:47,675 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,709 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,733 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,760 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,790 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,817 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,848 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,874 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,900 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,927 [main] INFO com.BaseClass.Library - Element is present
+2020-09-03 01:49:47,953 [main] INFO com.BaseClass.Library - Element is present
