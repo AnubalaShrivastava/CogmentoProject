@@ -1,5 +1,8 @@
 package com.SeleniumReusableFunctions;
 
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.event.KeyEvent;
 import java.io.File;
 import java.io.IOException;
 import java.util.Set;
@@ -22,6 +25,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import com.BaseClass.Library;
 
 public class SeleniumUtilities extends Library{
+	 Robot robot ;
 	public SeleniumUtilities(WebDriver driver) {
 		//this.driver=driver;
 		logger = Logger.getLogger(Library.class);
@@ -41,10 +45,23 @@ public class SeleniumUtilities extends Library{
 		System.out.println(driver.getTitle());
 	
 	}
+	//Explicit wait
 	public void Explicitlywait(String Locator) {
 		WebDriverWait wait=new WebDriverWait(driver,20);
 		wait.until(ExpectedConditions.elementToBeClickable(driver.findElement(By.xpath(Locator))));
 		
+	}
+	//Scroll up using Robot class
+	public void scrollUpUsinRobot() throws AWTException {
+		robot = new Robot();
+		 robot.keyPress(KeyEvent.VK_PAGE_UP);
+	     robot.keyRelease(KeyEvent.VK_PAGE_UP);
+	}
+	
+	//Scroll down using Robot class
+	public void scrolldownUsingRobot() {
+		robot.keyPress(KeyEvent.VK_PAGE_DOWN);
+        robot.keyRelease(KeyEvent.VK_PAGE_DOWN);
 	}
 	//selecting from drop down
 	public void dropdown(WebElement element,String selectedvalue) {
@@ -74,7 +91,9 @@ public class SeleniumUtilities extends Library{
 	
 	//Alert Handling
 	public void alertHandle() {
+	
 		Set<String> winhandles = driver.getWindowHandles();// all the windows
+	   
 		for (String winhandle : winhandles) {
 			driver.switchTo().window(winhandle);
 			
@@ -85,6 +104,8 @@ public class SeleniumUtilities extends Library{
 			}
 			driver.findElement(By.xpath("/html/body/div[3]/div/div[3]/button[@class='ui red button']")).click();
 		}
+	   
+	   
 	}
 	
 	// Checking the presence  of element
@@ -150,6 +171,17 @@ public class SeleniumUtilities extends Library{
 		}catch(Exception e) {
 			logger.info("From method 'existElement()' in SeleniumUtilities class :Element is not present");
 			
+		}
+	}
+	//Checking Presence of element using xpath
+	public void  existanceOfElementUsingxPath(String locatorxPath) {
+		
+		if(driver.findElement(By.xpath(locatorxPath)).isDisplayed())
+		{
+		logger.info("Element is present");
+	    }
+		else {
+			logger.info("Element is not present");
 		}
 	}
 	

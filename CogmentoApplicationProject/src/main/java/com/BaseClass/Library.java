@@ -15,7 +15,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-
+import com.aventstack.extentreports.ExtentReports;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -23,6 +23,8 @@ public class Library {
 	public static WebDriver driver;
 	public static Properties properties;
 	public static Logger logger;
+	public  ExtentReports extent;
+
 
 	public Library() {
 		properties = new Properties();
@@ -90,7 +92,7 @@ public class Library {
 	}
 
 	public static void tearDown() {
-		driver.quit();
+		//driver.quit();
 		logger.info("Exiting the application and closing the browser");
 	}
 	
