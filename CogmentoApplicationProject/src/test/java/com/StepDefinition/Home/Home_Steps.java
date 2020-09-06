@@ -16,13 +16,7 @@ import io.cucumber.java.en.When;
 public class Home_Steps extends Library{
 	Home_Page hPage;
 	SeleniumUtilities util;
-	//Constructor
-	
-	
-	/*
-	 * public Home_Steps() { this.driver=driver; hPage=new Home_Page(driver); }
-	 */
-	 
+		 
 	@Given("navigate to the login page")
 	public void navigate_to_the_login_page() {
 		browserSetUp();
@@ -232,6 +226,6 @@ public class Home_Steps extends Library{
 	@Then("Deals section should refresh")
 	public void deals_section_should_refresh() {
 	    
-		//tearDown();
+		tearDown();
 	}
 }

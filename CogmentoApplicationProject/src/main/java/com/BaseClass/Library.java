@@ -14,8 +14,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
-
-import com.aventstack.extentreports.ExtentReports;
+//import com.aventstack.extentreports.ExtentReports;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -23,9 +22,7 @@ public class Library {
 	public static WebDriver driver;
 	public static Properties properties;
 	public static Logger logger;
-	public  ExtentReports extent;
-
-
+	//Constructor
 	public Library() {
 		properties = new Properties();
 		try {
@@ -38,22 +35,14 @@ public class Library {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-
-		//logger = Logger.getLogger(Library.class.getName());
 		logger = Logger.getLogger(Library.class);
-		
-		
-		
 		PropertyConfigurator.configure("src/test/resources/Log4jProperties/Log4j.property");
-
 	}
-
+    //Browser initilation
 	public static void browserSetUp() {
-		
 		logger.info("Starting with Browser Set Up");
 		String browser = properties.getProperty("browser");
 		String url = properties.getProperty("url");
-		
 		switch (browser.toLowerCase()) {
 		case "chrome":
 			WebDriverManager.chromedriver().setup();
@@ -90,9 +79,9 @@ public class Library {
 		driver.get(url);
 		logger.info("Launched the Cogmento Application");
 	}
-
+//Closing Browser
 	public static void tearDown() {
-		//driver.quit();
+		driver.quit();
 		logger.info("Exiting the application and closing the browser");
 	}
 	

@@ -1618,3 +1618,488 @@
 2020-09-04 11:32:47,593 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
 2020-09-04 11:32:51,272 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
 2020-09-04 11:32:51,420 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-04 12:20:14,871 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 12:20:18,841 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 12:20:22,361 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 12:20:22,362 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 12:20:22,696 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 12:20:24,327 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 12:20:24,475 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,511 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,537 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,586 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,644 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,679 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,708 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,742 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,772 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,802 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:24,839 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 12:20:30,426 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 12:20:30,678 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-04 12:20:34,442 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-04 12:20:34,569 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-04 14:11:28,001 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 14:11:31,920 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 14:11:35,435 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 14:11:35,436 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 14:11:35,827 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 14:11:37,442 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 14:11:37,597 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:37,646 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:37,702 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:37,826 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:37,879 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:37,913 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:37,932 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:37,957 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:37,985 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:38,011 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:38,039 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:11:43,591 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 14:11:44,291 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-04 14:11:47,760 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-04 14:11:47,966 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-04 14:14:39,678 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 14:14:43,721 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 14:14:47,296 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 14:14:47,298 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 14:14:47,620 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 14:14:49,072 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 14:14:49,193 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,254 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,288 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,325 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,359 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,396 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,423 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,452 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,480 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,511 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:49,543 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:14:55,138 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 14:14:55,814 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-04 14:14:59,292 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-04 14:14:59,487 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-04 14:30:38,074 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 14:30:42,391 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 14:30:46,100 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 14:30:46,101 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 14:30:46,476 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 14:30:48,685 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 14:30:48,849 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:48,928 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:48,964 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:49,002 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:49,048 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:49,110 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:49,135 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:49,164 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:49,191 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:49,218 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:49,251 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:30:54,822 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 14:30:55,430 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-04 14:30:58,914 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-04 14:30:59,110 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-04 14:44:45,660 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 14:44:50,460 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 14:44:54,399 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 14:44:54,400 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 14:44:54,903 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 14:44:55,501 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 14:44:57,319 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,387 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,414 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,483 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,564 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,602 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,631 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,665 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,697 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,727 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:44:57,760 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:45:03,370 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 14:45:04,037 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-04 14:45:07,535 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-04 14:45:07,756 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-04 14:46:00,792 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 14:46:05,009 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 14:46:08,531 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 14:46:08,531 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 14:46:08,905 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 14:46:10,759 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 14:46:10,913 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:10,977 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,080 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,119 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,154 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,214 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,254 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,288 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,318 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,350 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:11,376 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:46:16,966 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 14:46:17,638 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-04 14:46:21,231 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-04 14:46:21,357 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-04 14:51:36,682 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 14:51:40,902 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 14:51:44,600 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 14:51:44,601 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 14:51:45,126 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 14:51:47,189 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 14:51:47,323 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,397 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,444 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,495 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,545 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,577 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,607 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,639 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,678 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,708 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:47,741 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:51:53,486 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 14:51:54,174 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-04 14:53:54,210 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 14:53:58,143 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 14:54:01,674 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 14:54:01,675 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 14:54:02,034 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 14:54:03,742 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 14:54:03,932 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:03,975 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,035 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,089 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,124 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,162 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,185 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,213 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,253 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,283 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:04,308 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 14:54:09,894 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 14:54:10,185 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-04 14:54:13,865 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-04 14:54:13,979 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-04 17:40:46,913 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-04 17:40:51,045 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-04 17:40:54,768 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-04 17:40:54,769 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-04 17:40:55,101 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-04 17:40:57,033 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-04 17:40:57,131 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,176 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,227 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,289 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,325 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,362 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,410 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,441 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,466 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,491 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:40:57,519 [main] INFO com.BaseClass.Library - Element is present
+2020-09-04 17:41:03,060 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-04 17:41:03,742 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 07:09:48,335 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 07:09:52,512 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 07:09:56,343 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 07:09:56,344 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 07:09:56,694 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 07:09:58,498 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 07:09:58,623 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,661 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,714 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,791 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,828 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,863 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,887 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,918 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,949 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:58,980 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:09:59,011 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:10:04,557 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 07:10:04,789 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 07:10:08,517 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 07:10:08,630 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 07:30:45,783 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 07:30:50,001 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 07:30:53,451 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 07:30:53,452 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 07:30:53,917 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 07:30:55,562 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 07:30:55,709 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:55,773 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:55,802 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:55,834 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:55,904 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:55,936 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:55,964 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:55,993 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:56,016 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:56,040 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:30:56,068 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:01,577 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 07:31:02,271 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 07:31:05,781 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 07:31:05,928 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 07:31:32,669 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 07:31:36,571 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 07:31:40,039 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 07:31:40,041 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 07:31:40,362 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 07:31:42,052 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 07:31:42,159 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,209 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,247 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,309 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,349 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,385 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,416 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,448 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,475 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,503 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:42,533 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 07:31:48,087 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 07:31:48,781 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 07:31:52,221 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 07:31:52,418 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 08:25:46,147 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:25:46,153 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:25:50,375 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:25:53,940 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:25:54,035 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:25:57,144 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:26:00,771 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:26:00,772 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 08:26:01,123 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 08:26:02,767 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 08:26:02,771 [main] INFO com.StepDefinition.Home.ServiceHooks - User is Logged In is pass
+2020-09-06 08:26:03,383 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:26:03,399 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:26:03,399 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:26:06,665 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:26:10,135 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:26:30,445 [main] INFO com.StepDefinition.Home.ServiceHooks - Home Page UI content is Failed
+2020-09-06 08:26:30,463 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:26:30,507 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:26:30,508 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:26:33,742 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:27:05,824 [main] INFO com.StepDefinition.Home.ServiceHooks - Deal Summary varification is Failed
+2020-09-06 08:27:17,846 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:27:17,859 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:27:17,859 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:27:20,956 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:27:24,497 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:27:28,189 [main] INFO com.StepDefinition.Home.ServiceHooks - Activity stream verification is Failed
+2020-09-06 08:27:28,230 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:27:28,249 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:27:28,250 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:27:31,345 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:28:03,417 [main] INFO com.StepDefinition.Home.ServiceHooks - Deals section verification is Failed
+2020-09-06 08:28:15,441 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:30:06,777 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:30:06,782 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:30:10,756 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:30:14,196 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:30:14,319 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 08:30:14,648 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 08:30:16,401 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 08:30:16,407 [main] INFO com.StepDefinition.Home.ServiceHooks - User is Logged In is pass
+2020-09-06 08:30:17,704 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:30:17,725 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:30:17,725 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:30:20,877 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:30:24,280 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:30:41,066 [main] INFO com.StepDefinition.Home.ServiceHooks - Home Page UI content is Failed
+2020-09-06 08:30:41,763 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:30:41,786 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:30:41,787 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:30:44,836 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:30:48,311 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:31:05,409 [main] INFO com.StepDefinition.Home.ServiceHooks - Deal Summary varification is Failed
+2020-09-06 08:31:17,989 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:31:17,999 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:31:18,000 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:31:21,092 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:31:24,641 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:31:33,073 [main] INFO com.StepDefinition.Home.ServiceHooks - Activity stream verification is Failed
+2020-09-06 08:31:33,753 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:31:33,769 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:31:33,770 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:31:36,815 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:31:40,266 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:31:47,571 [main] INFO com.StepDefinition.Home.ServiceHooks - Deals section verification is Failed
+2020-09-06 08:31:48,262 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:34:07,356 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:34:07,457 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:34:11,418 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:34:14,892 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:34:14,893 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 08:34:15,244 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 08:34:16,812 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 08:34:16,817 [main] INFO com.StepDefinition.Home.ServiceHooks - User is Logged In is pass
+2020-09-06 08:34:18,019 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:34:18,053 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:34:18,078 [main] INFO com.StepDefinition.Home.ServiceHooks - Home Page UI content is Failed
+2020-09-06 08:34:18,079 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:34:18,094 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:34:18,114 [main] INFO com.StepDefinition.Home.ServiceHooks - Deal Summary varification is Failed
+2020-09-06 08:34:18,115 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:34:18,124 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:34:18,148 [main] INFO com.StepDefinition.Home.ServiceHooks - Activity stream verification is Failed
+2020-09-06 08:34:18,149 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:34:18,159 [main] INFO com.StepDefinition.Home.ServiceHooks - Initializing test
+2020-09-06 08:34:18,179 [main] INFO com.StepDefinition.Home.ServiceHooks - Deals section verification is Failed
+2020-09-06 08:34:18,184 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 08:35:40,058 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 08:35:43,921 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 08:35:47,293 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 08:35:47,293 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 08:35:47,654 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 08:35:49,092 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 08:35:49,230 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,271 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,318 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,407 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,450 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,479 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,514 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,547 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,580 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,614 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:49,648 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 08:35:55,180 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 08:35:55,793 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 08:35:59,261 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 08:35:59,437 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 10:16:37,530 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 10:16:41,767 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 10:16:45,383 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 10:16:45,384 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 10:16:45,708 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 10:16:47,446 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 10:16:47,609 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,649 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,685 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,765 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,812 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,845 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,874 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,905 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,933 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,961 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:47,989 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:16:53,538 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 10:16:54,136 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 10:16:57,588 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 10:16:57,760 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 10:24:20,082 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 10:24:24,197 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 10:24:27,789 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 10:24:27,789 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 10:24:28,211 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 10:24:29,921 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 10:24:30,051 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,114 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,161 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,208 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,243 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,281 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,304 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,338 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,374 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,401 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:30,428 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:24:35,938 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 10:24:36,625 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 10:24:40,143 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 10:24:40,274 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 10:30:00,785 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 10:30:04,836 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 10:30:08,313 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 10:30:08,314 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 10:30:58,333 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 10:31:02,255 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 10:31:06,012 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 10:31:06,013 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 10:31:06,333 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 10:31:07,879 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 10:31:07,966 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,030 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,080 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,125 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,158 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,190 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,235 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,294 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,325 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,356 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:08,386 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:13,975 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 10:31:14,566 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 10:31:17,955 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 10:31:18,130 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 10:31:43,420 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 10:31:47,412 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 10:31:50,949 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 10:31:50,949 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 10:31:51,349 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 10:31:53,173 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 10:31:53,337 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,381 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,464 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,513 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,562 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,598 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,623 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,649 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,677 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,700 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:53,726 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:31:59,238 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 10:32:00,025 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 10:32:03,415 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 10:32:03,593 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 10:32:04,419 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser
+2020-09-06 10:43:15,015 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 10:43:19,242 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 10:43:22,796 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 10:43:22,796 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 10:43:23,152 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 10:43:25,031 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 10:43:25,157 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,200 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,233 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,280 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,333 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,374 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,405 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,431 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,454 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,479 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:43:25,505 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:44,991 [main] INFO com.BaseClass.Library - Starting with Browser Set Up
+2020-09-06 10:45:49,093 [main] INFO com.BaseClass.Library - Identified the browser as chrome. Launching the browser
+2020-09-06 10:45:52,617 [main] INFO com.BaseClass.Library - Launched the Cogmento Application
+2020-09-06 10:45:52,617 [main] INFO com.BaseClass.Library - Browser Launched and navigate to URL
+2020-09-06 10:45:52,943 [main] INFO com.BaseClass.Library - Login successfully
+2020-09-06 10:45:54,638 [main] INFO com.BaseClass.Library - Page is verified
+2020-09-06 10:45:54,796 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:54,883 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:54,930 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:54,986 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:55,034 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:55,083 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:55,107 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:55,134 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:55,164 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:55,191 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:55,230 [main] INFO com.BaseClass.Library - Element is present
+2020-09-06 10:45:55,614 [main] INFO com.BaseClass.Library - Activity Stream drop down is displaying
+2020-09-06 10:45:56,245 [main] INFO com.BaseClass.Library - Contacts on ActivityStream are displaying
+2020-09-06 10:45:59,667 [main] INFO com.BaseClass.Library - Companies on ActivityStream are displaying
+2020-09-06 10:45:59,831 [main] INFO com.BaseClass.Library - Avtivity Stream contents are displaying
+2020-09-06 10:46:00,701 [main] INFO com.BaseClass.Library - Exiting the application and closing the browser

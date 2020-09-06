@@ -26,11 +26,15 @@ import com.BaseClass.Library;
 
 public class SeleniumUtilities extends Library{
 	 Robot robot ;
+	 
+	 //Constructor
 	public SeleniumUtilities(WebDriver driver) {
 		//this.driver=driver;
 		logger = Logger.getLogger(Library.class);
 		
 	}
+	
+	//screen shot method
 	public void to_take_screenshot(String path) {
 		TakesScreenshot ts=(TakesScreenshot)driver;
 		File source=ts.getScreenshotAs(OutputType.FILE);
@@ -40,6 +44,8 @@ public class SeleniumUtilities extends Library{
 			e.printStackTrace();
 		}
 	}
+	
+	//Getting title of page
 	public void getTitle() {
 		
 		System.out.println(driver.getTitle());
@@ -70,7 +76,7 @@ public class SeleniumUtilities extends Library{
 		
 	}
 	
-	//Page verification
+	//Page verification for URL or Title string
 	public void pageVerification(String expectedURLorTitle,String actualURLorTitle) {
 		
 		try {
@@ -82,14 +88,14 @@ public class SeleniumUtilities extends Library{
 			logger.info("Page is not verified");
 		}
 	}
-	//Window scroll down to middle
+	//Window scroll down to middle using Java script
 	public void scrollDown() {
 		
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("window.scrollTo(0, 200)");
 	}
 	
-	//Alert Handling
+	//Alert Handling (Use when popup comes)
 	public void alertHandle() {
 	
 		Set<String> winhandles = driver.getWindowHandles();// all the windows
@@ -108,7 +114,7 @@ public class SeleniumUtilities extends Library{
 	   
 	}
 	
-	// Checking the presence  of element
+	// Checking the presence  of element using xpath,id ,name ,class or css
 	public void existElement(String typeOfLocator, String locatorValue) {
 		String typeoflocator = typeOfLocator.toLowerCase();
 		boolean isElementPresent=false;
@@ -116,53 +122,41 @@ public class SeleniumUtilities extends Library{
 		switch (typeoflocator) {
 		case "xpath":
 		{
-			//uiElement=driver.findElement(By.xpath(locatorValue));
-			//Assert.assertEquals(true,driver.findElement(By.xpath(locatorValue)).isDisplayed());
 			isElementPresent=driver.findElement(By.xpath(locatorValue)).isDisplayed();
 		}
 		break;
 		case "id":
 		{
-			
-			//Assert.assertEquals(true,driver.findElement(By.id(locatorValue)).isDisplayed());
-			isElementPresent=driver.findElement(By.id(locatorValue)).isDisplayed();
+				isElementPresent=driver.findElement(By.id(locatorValue)).isDisplayed();
 		}
 		break;
 		case "name":
 		{
-		     //Assert.assertEquals(true,driver.findElement(By.name(locatorValue)).isDisplayed());
-			isElementPresent=driver.findElement(By.name(locatorValue)).isDisplayed();
+				isElementPresent=driver.findElement(By.name(locatorValue)).isDisplayed();
 		}
 		break;
 		case "class":
 		{
-						
-			//Assert.assertEquals(true,driver.findElement(By.className(locatorValue)).isDisplayed());
+	
 			isElementPresent=driver.findElement(By.className(locatorValue)).isDisplayed();
 		}
 		break;
 		case "classname":
 		{
-			
-			//Assert.assertEquals(true,driver.findElement(By.className(locatorValue)).isDisplayed());
 			isElementPresent=driver.findElement(By.className(locatorValue)).isDisplayed();
 		}
 		break;
 		case "css":
 		{
-			
-			//Assert.assertEquals(true,driver.findElement(By.cssSelector(locatorValue)).isDisplayed());
 			isElementPresent=driver.findElement(By.cssSelector(locatorValue)).isDisplayed();
 		}
 		break;
 		case "cssselector":
 		{
-			
-			//Assert.assertEquals(true, driver.findElement(By.cssSelector(locatorValue)).isDisplayed());
 			isElementPresent=driver.findElement(By.cssSelector(locatorValue)).isDisplayed();
 		}
 		break;
-				
+	
 		}
 		
 		if (isElementPresent) {

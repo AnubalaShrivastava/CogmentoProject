@@ -36,6 +36,6 @@ public class TestRunner {
 	  Reporter.setSystemInfo("user", System.getProperty("user.name"));
 	  Reporter.setSystemInfo("os", "Windows");
 	  Reporter.setTestRunnerOutput("Sample test runner output message"); }
-	 
+	  
 
 }

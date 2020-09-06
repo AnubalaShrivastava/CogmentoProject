@@ -132,7 +132,7 @@ public class Home_Page extends Library{
 	// click Deal Summary gear icon
 	public void clickDealSummaryGearIcon() {
 		sUtil = new SeleniumUtilities(driver);
-		sUtil.alertHandle();
+		//sUtil.alertHandle();
 		gearDeal.click();
 	}
 	//Checking Deal Summary section filter option
@@ -238,36 +238,6 @@ public class Home_Page extends Library{
 		public void clickOnDealSectionGearIcon() {
 			dealgearIcon.click();
 		}
-	/*
-	 * public void clickActivityDropdown() { //Thread.sleep(2000); drpdn.click(); }
-	 */
 	
-	public void clickOption() {
-		//Thread.sleep(2000);
-		//optioncmpny.click();
-		
-	}
-	public void selectCompany() {
-		//Thread.sleep(2000);
-		optioncompany.click();
-		driver.navigate().to(driver.getCurrentUrl());
-		//Thread.sleep(2000);
-	}
-	
-	public void clickEdit() {
-		//Thread.sleep(2000);
-		btnEdit.click();
-	}
-	public void editAddress(String newAdd) {
-		//Thread.sleep(2000);
-		txtadd.clear();
-		txtadd.sendKeys(newAdd);
-		
-	}
-	
-   public void save() {
-	   btnSave.click();
-	   
-   }
 
 }
