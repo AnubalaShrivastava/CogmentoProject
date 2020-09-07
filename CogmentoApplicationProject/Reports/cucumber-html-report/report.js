@@ -1,4 +1,290 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("file:src/test/resources/Features/Home.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("file:src/test/resources/Features/Calls.feature");
+formatter.feature({
+  "name": "Test the Cogmento Application Calls Module",
+  "description": "",
+  "keyword": "Feature"
+});
+formatter.scenario({
+  "name": "To check the login functionality of Cogmento Application Project",
+  "description": "",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "name": "To launch the browser and navigate to the URL",
+  "keyword": "Given "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.to_launch_the_browser_and_navigate_to_the_url()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Email and Password",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_email_and_password()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click Login Button",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.click_Login_Button()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Get the page title and screenshot",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.get_the_page_title_and_screenshot()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "To test weather we reached the correct website and click calls",
+  "description": "",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "name": "To test if the username displayed is correct or not",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.to_test_if_the_username_displayed_is_correct_or_not()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "click on calls button",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.click_on_calls_button()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "To test the new button functionality in calls section",
+  "description": "",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "name": "Click on New button",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.click_on_new_button()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Call time",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_call_time()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Assigned To",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_assigned_to()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Select Type",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.select_type()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Duration",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_duration()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Start Time",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_start_time()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Select Flag",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.select_flag()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Tags",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_tags()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Description",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_description()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Search for Contact",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.search_for_contact()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Search for deal",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.search_for_deal()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Search for Case",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.search_for_case()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Search for Task",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.search_for_task()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Conference Call Number",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_conference_call_number()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Enter Identifier",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.enter_identifier()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Click Save",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.click_save()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.scenario({
+  "name": "To test the Show filters Button functionality in calls",
+  "description": "",
+  "keyword": "Scenario"
+});
+formatter.step({
+  "name": "Click on ShowFilters",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.click_on_ShowFilters()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "check if Search dropdown is present",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.check_if_Search_dropdown_is_present()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Check if operator dropdown is present",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.check_if_operator_dropdown_is_present()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "Check if Value field is present or not",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "com.StepDefinition.Calls.Calls_Steps.check_if_Value_field_is_present_or_not()"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.uri("file:src/test/resources/Features/Home.feature");
 formatter.feature({
   "name": "Test Home Page",
   "description": "",
@@ -37,7 +323,8 @@ formatter.match({
   "location": "com.StepDefinition.Home.Home_Steps.should_be_logged_in()"
 });
 formatter.result({
-  "status": "passed"
+  "error_message": "org.junit.ComparisonFailure: expected:\u003c[Anubala Shrivastava]\u003e but was:\u003c[harisha kandepaneni]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:117)\r\n\tat org.junit.Assert.assertEquals(Assert.java:146)\r\n\tat com.SeleniumReusableFunctions.SeleniumUtilities.pageVerification(SeleniumUtilities.java:83)\r\n\tat com.StepDefinition.Home.Home_Steps.should_be_logged_in(Home_Steps.java:38)\r\n\tat ✽.should be logged in(file:///C:/Users/haris/Documents/GitHub/CogmentoProject/CogmentoApplicationProject/src/test/resources/Features/Home.feature:6)\r\n",
+  "status": "failed"
 });
 formatter.scenario({
   "name": "Home Page UI content",
