@@ -2,8 +2,8 @@ browser= chrome
 url=https://ui.cogmento.com/
 
 #login functionality
-loginEmail=rajbir.kaur.30@gmail.com
-LoginPassword=Rajbir.30
+loginEmail=
+LoginPassword=
 # Data for editing and verification
 CompanyAdd="Site 2 main Street"
-contact="Rajbir Rai" 
+contact="Harish Raj Verma" 
