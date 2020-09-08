@@ -100,12 +100,12 @@
 				<div class="p-2 px-3 text-muted text-sm">Tags</div>
 					<div class="list-item attr">
 						<div class="list-body">
-							<a href="#" class="item-title _500">org.openqa.selenium.NoSuchElementException</a>
+							<a href="#" class="item-title _500">org.junit.ComparisonFailure</a>
 							<div class="item-except text-sm text-muted h-1x">
 								1 tests
 							</div>
 							<div class="tc d-none">
-								<h5 class="mb-4">org.openqa.selenium.NoSuchElementException</h5>
+								<h5 class="mb-4">org.junit.ComparisonFailure</h5>
 								<table class="table">
 									<thead><tr>
 										<th id="status-col"></th>
@@ -117,10 +117,10 @@
 									</tr></thead>
 									<tbody>
 	
-<tr class="s-fail" test-id="9" parent-id="1">
+<tr class="s-fail" test-id="27" parent-id="23">
 	<td><span class="w-32 avatar circle fail"><span class="badge">fail</span></span></td>
-	<td class="_600">When click on deal summary section gear icon <br/><span class="text-muted text-sm">Deal Summary varification</span></td>
-	<td>0h 0m 12s+117msc</td>
+	<td class="_600">Then should be logged in <br/><span class="text-muted text-sm">User is Logged In</span></td>
+	<td>0h 0m 1s+397msc</td>
 	<td></td>
 	<td>
 	</td>
@@ -129,19 +129,12 @@
 <tr class="details">
 	<td colspan="5">
 		
-		<textarea disabled class="code-block">org.openqa.selenium.NoSuchElementException: Cannot locate an element using xpath=/html/body/div[3]/div/div[3]/button[@class='ui red button']
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-FL730MCA', ip: '10.0.0.34', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
-Driver info: driver.version: RemoteWebDriver
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at com.SeleniumReusableFunctions.SeleniumUtilities.alertHandle(SeleniumUtilities.java:111)
-	at com.Pages.Home.Home_Page.clickDealSummaryGearIcon(Home_Page.java:135)
-	at com.StepDefinition.Home.Home_Steps.click_on_deal_summary_section_gear_icon(Home_Steps.java:51)
-	at ✽.click on deal summary section gear icon(file:///C:/Users/bala_/git/CogmentoProject/CogmentoApplicationProject/src/test/resources/Features/Home.feature:12)
+		<textarea disabled class="code-block">org.junit.ComparisonFailure: expected:<[Anubala Shrivastava]> but was:<[Rajbir Rai]>
+	at org.junit.Assert.assertEquals(Assert.java:117)
+	at org.junit.Assert.assertEquals(Assert.java:146)
+	at com.SeleniumReusableFunctions.SeleniumUtilities.pageVerification(SeleniumUtilities.java:83)
+	at com.StepDefinition.Home.Home_Steps.should_be_logged_in(Home_Steps.java:38)
+	at ✽.should be logged in(file:///C:/Users/rajbi/git/CogmentoProject/CogmentoApplicationProject/src/test/resources/Features/Home.feature:6)
 </textarea>
 	</td>
 </tr>
@@ -152,12 +145,12 @@ Driver info: driver.version: RemoteWebDriver
 					</div>
 					<div class="list-item attr">
 						<div class="list-body">
-							<a href="#" class="item-title _500">org.openqa.selenium.NoSuchWindowException</a>
+							<a href="#" class="item-title _500">java.lang.AssertionError</a>
 							<div class="item-except text-sm text-muted h-1x">
-								2 tests
+								1 tests
 							</div>
 							<div class="tc d-none">
-								<h5 class="mb-4">org.openqa.selenium.NoSuchWindowException</h5>
+								<h5 class="mb-4">java.lang.AssertionError</h5>
 								<table class="table">
 									<thead><tr>
 										<th id="status-col"></th>
@@ -169,10 +162,10 @@ Driver info: driver.version: RemoteWebDriver
 									</tr></thead>
 									<tbody>
 	
-<tr class="s-fail" test-id="16" parent-id="1">
+<tr class="s-fail" test-id="43" parent-id="23">
 	<td><span class="w-32 avatar circle fail"><span class="badge">fail</span></span></td>
-	<td class="_600">When Click on activity stream section gear icon <br/><span class="text-muted text-sm">Activity stream verification</span></td>
-	<td>0h 0m 0s+34msc</td>
+	<td class="_600">Then Companies should appear on activity stream <br/><span class="text-muted text-sm">Activity stream verification</span></td>
+	<td>0h 0m 30s+19msc</td>
 	<td></td>
 	<td>
 	</td>
@@ -181,82 +174,16 @@ Driver info: driver.version: RemoteWebDriver
 <tr class="details">
 	<td colspan="5">
 		
-		<textarea disabled class="code-block">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=85.0.4183.83)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-FL730MCA', ip: '10.0.0.34', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.83, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\bala_\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65429}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 7d7b62f49b18b152585df69fa1653ae7
-*** Element info: {Using=xpath, value=//div[@class='content card-header']//i[@class='right floated setting icon color-gray']}
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy19.click(Unknown Source)
-	at com.Pages.Home.Home_Page.clickActivitySettingGear(Home_Page.java:161)
-	at com.StepDefinition.Home.Home_Steps.click_on_activity_stream_section_gear_icon(Home_Steps.java:83)
-	at ✽.Click on activity stream section gear icon(file:///C:/Users/bala_/git/CogmentoProject/CogmentoApplicationProject/src/test/resources/Features/Home.feature:20)
-</textarea>
-	</td>
-</tr>
-	
-<tr class="s-fail" test-id="33" parent-id="1">
-	<td><span class="w-32 avatar circle fail"><span class="badge">fail</span></span></td>
-	<td class="_600">When Click Deals section gear icon <br/><span class="text-muted text-sm">Deals section verification</span></td>
-	<td>0h 0m 0s+30msc</td>
-	<td></td>
-	<td>
-	</td>
-	<td class="static"><i class="static fa fa-external-link"></i></td>
-</tr>
-<tr class="details">
-	<td colspan="5">
-		
-		<textarea disabled class="code-block">org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
-from unknown error: web view not found
-  (Session info: chrome=85.0.4183.83)
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'LAPTOP-FL730MCA', ip: '10.0.0.34', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '13.0.2'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.83, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: C:\Users\bala_\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:65429}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
-Session ID: 7d7b62f49b18b152585df69fa1653ae7
-*** Element info: {Using=xpath, value=//*[@id='ui']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div[1]/a[2]/i[@class='right floated setting icon color-gray']}
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
-	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-	at com.sun.proxy.$Proxy19.click(Unknown Source)
-	at com.Pages.Home.Home_Page.clickOnDealSectionGearIcon(Home_Page.java:239)
-	at com.StepDefinition.Home.Home_Steps.click_Deals_section_gear_icon(Home_Steps.java:180)
-	at ✽.Click Deals section gear icon(file:///C:/Users/bala_/git/CogmentoProject/CogmentoApplicationProject/src/test/resources/Features/Home.feature:38)
+		<textarea disabled class="code-block">java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:96)
+	at org.testng.Assert.failNotEquals(Assert.java:776)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+	at org.testng.Assert.assertEquals(Assert.java:118)
+	at org.testng.Assert.assertEquals(Assert.java:568)
+	at org.testng.Assert.assertEquals(Assert.java:578)
+	at com.Pages.Home.Home_Page.verifyCompany(Home_Page.java:222)
+	at com.StepDefinition.Home.Home_Steps.companies_should_appear_on_activity_stream(Home_Steps.java:115)
+	at ✽.Companies should appear on activity stream(file:///C:/Users/rajbi/git/CogmentoProject/CogmentoApplicationProject/src/test/resources/Features/Home.feature:25)
 </textarea>
 	</td>
 </tr>
@@ -284,7 +211,7 @@ Session ID: 7d7b62f49b18b152585df69fa1653ae7
 						            </div>
 									<ul class="nav nav-xs flex-row no-border pull-right">
 <li><a href="#" class="b-l"><span class="badge badge-pull">ExtentReports</span></a></li>
-<li><a href="#" class="b-l"><span class="badge badge-pull">Sep 6, 2020 10:43:13 AM</span></a></li>
+<li><a href="#" class="b-l"><span class="badge badge-pull">Sep 7, 2020 11:30:57 AM</span></a></li>
 <li><a href="#" class="b-l"><span class="badge badge-pull">4.0</span></a></li>
 								    </ul>
 								</div>
