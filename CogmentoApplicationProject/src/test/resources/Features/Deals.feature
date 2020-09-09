@@ -42,5 +42,5 @@ Then Type list should change with up/down arrow
 When click on Options
 Then should see Options on page
 When click on Pipeline button
-Then should show pipeline page contents
+Then should show pipeline page content
 
