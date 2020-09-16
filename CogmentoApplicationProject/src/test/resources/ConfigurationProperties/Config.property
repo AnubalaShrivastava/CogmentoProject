@@ -7,3 +7,12 @@ LoginPassword=
 # Data for editing and verification
 CompanyAdd="Site 2 main Street"
 contact="Harish Raj Verma" 
+
+#calls Config property variables
+ctime=11/09/2020 00:30
+durationofcall=20 
+tags1=longcall,appropriate,12334,12344,56789
+starttime=11/09/2020 20:45
+desc= this is a long call
+num= 123445
+identifier= last call

@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "src/test/resources/Features",
+		features = {"src/test/resources/Features/Home.feature","src/test/resources/Features/Calls.feature"},
 				plugin = {"pretty",
 						"html:Reports/cucumber-html-report", 
 						"json:Reports/cucumber-html-report/jsonreport.json",
@@ -18,7 +18,7 @@ import io.cucumber.junit.CucumberOptions;
 						"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter: ",
 						"testng:target/testng-cucumber-reports/cuketestng.xml",
 						},
-		glue="com.StepDefinition.Home"
+		glue={"com.StepDefinition.Home","com.StepDefinition.Calls"}
 		
 		//strict= true
 					
